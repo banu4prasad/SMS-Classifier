@@ -8,6 +8,12 @@ An SMS classifier is a system that uses machine learning algorithms to label tex
 -  **Word frequency :** This feature analyzes the frequency of words in a message, with a higher frequency of known spam
 -  **Length of message :** Spam messages often tend to be shorter than legitimate messages, so this feature can be helpful in identifying spam based on message length.
 
+# Technologies Used
+- **Machine Learning :**  Employs algorithms and statistical models to enable the SMS classifier to learn from data, improving its accuracy over time.
+- **Feature Engineering :** Involves selecting, modifying, or creating features from the raw data to enhance the model’s predictive capabilities.
+- **Text Mining :** Involves extracting valuable information and patterns from unstructured text data, aiding in the identification of relevant features for classification.
+- **Natural Language Processing :** Utilizes algorithms to understand and process human language, enabling the system to analyze and classify text messages effectively.
+
 # Programming Languages used
 - **Python3 :** 
 

@@ -14,4 +14,4 @@ An SMS classifier is a system that uses machine learning algorithms to label tex
 ## Getting Started
 1. Clone the repository:
    ```bash
-    git clone https://github.com/banu4prasasad/SMS-Classifier.git
+    git clone https://github.com/banu4prasad/SMS-Classifier.git

@@ -15,9 +15,20 @@ An SMS classifier is a system that uses machine learning algorithms to label tex
 - **Natural Language Processing :** Utilizes algorithms to understand and process human language, enabling the system to analyze and classify text messages effectively.
 
 # Programming Languages used
-- **Python3 :** 
+- Python3
 
 ## Getting Started
 1. Clone the repository:
    ```bash
     git clone https://github.com/banu4prasad/SMS-Classifier.git
+2.Navigate to the project directory:
+bash
+Copy code
+-cd SMS-Classifer
+
+# Usage
+1. Dowload the folder sms_classifier and open app.py file in the Local Machine
+2. In your IDE (VS code, Colab,Jupyter)
+   <br>Run the <b>Terminal</b> command `<streamlit run app.py>`
+<br><i>Then type any random message to check whether the message is SPAM or not<i>
+

@@ -22,11 +22,10 @@ An SMS classifier is a system that uses machine learning algorithms to label tex
    ```bash
     git clone https://github.com/banu4prasad/SMS-Classifier.git
 2.Navigate to the project directory:
-bash
-Copy code
--cd SMS-Classifer
-
-# Usage
+```zsh
+cd SMS-Classifer
+```
+## Usage
 1. Dowload the folder sms_classifier and open app.py file in the Local Machine
 2. In your IDE (VS code, Colab,Jupyter)
    <br>Run the <b>Terminal</b> command `<streamlit run app.py>`
